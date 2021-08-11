@@ -13,6 +13,6 @@ https://github.com/krather7
 https://www.linkedin.com/in/kyle-rather-aa0853201/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+![alt text](https://github.com/krather7/liftoff-assignments/blob/master/C1-Online_Profiles/ResumeKFR.pdf)
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
