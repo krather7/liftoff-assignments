@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+https://trello.com/c/6E293NZJ/41-wireframes-pdf
 
 ### Project Tracker
 
@@ -16,4 +16,4 @@ https://trello.com/b/zrQnDjXq/liftoff-project
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/LaunchCodeLiftoffProjects/koki-group-a
